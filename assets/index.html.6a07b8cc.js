@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./app.4b1a251b.js";const a={},c=o("p",null,"This page should not have comments because this is homepage.",-1),n=[c];function _(r,i){return s(),t("div",null,n)}var d=e(a,[["render",_],["__file","index.html.vue"]]);export{d as default};
